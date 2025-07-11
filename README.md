@@ -1,4 +1,4 @@
-# FaceMask-Detection 😷
+# FaceMask-Detection Using Deep Learning Approach 😷
 
 ## 🚀 Overview
 
